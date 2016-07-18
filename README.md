@@ -1,5 +1,5 @@
-# alecto-ui
-html/css project
+# Alecto-UI
+HTML/CSS/JQuery Project
 
 1.PSD made by symu.co
 
@@ -7,10 +7,12 @@ html/css project
 
 3.Fontawesome used
 
-4.bootstrap
+4.Bootstrap
 
-5.css
+5.CSS
 
-6.bxslider
+6.Bxslider
 
 7.JQuery
+
+[My Personal Website](http://www.moustafaomar.gq)
