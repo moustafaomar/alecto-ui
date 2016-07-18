@@ -7,7 +7,7 @@ $(function () {
     //Adjust header height
     
     var myHeader = $('.header'),
-        mySlider = $('.bxslider'),
+        mySlider = $('.bxslider')
     
     myHeader.height($(window).height());
     
@@ -62,6 +62,5 @@ $(function () {
             $('.scroll-to-top').fadeOut();
         }
     });
-    
     
 });
