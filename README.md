@@ -15,4 +15,4 @@ HTML/CSS/JQuery Project
 
 7.JQuery
 
-[Visit my personal wwebsite for more info about me :)](www.moustafaomar.gq)
+[Visit my personal website for more info about me :)](http://moustafaomar.gq)
